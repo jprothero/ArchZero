@@ -1,0 +1,6 @@
+idea: all in one MCTS net:
+
+it learns incrementing, wins, visits, overall visits, and computing uct score, it also learns the different type of outputs such as most visited, most reliable, highest score, etc
+
+
+maybe merge with a separate random generating LSTM, masking LSTM, and same update detector LSTM for doing evolution with random tensors
